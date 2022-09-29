@@ -1,0 +1,4 @@
+d54097b138f55eace83061e87f3b2409124df80f  src/cadena.cpp
+c503abc4456ab1f0f3a6715ed717c57c268f487a  src/iterador.cpp
+eee5df061cebc131b485f16b25facdbb22196e18  src/abb.cpp
+befaff29d74b24a4f6d5740dec7aacecc8ad8f3d  src/aplicaciones.cpp
